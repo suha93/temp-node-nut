@@ -1,0 +1,2 @@
+Here is the second rsult: hello this is the first text file., hello! this is the second text file here is the result: hello this is the first text file., hello! this is the second text file concatenating 1st and 2nd: hello this is the first text file., hello! this is the second text file concatenating 1st and 2nd: hello this is the first text file., hello! this is the second text file  
+concatenating 1st and 2nd: hello this is the first text file., hello! this is the second text file  

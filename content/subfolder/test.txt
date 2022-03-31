@@ -1,0 +1,1 @@
+testing the text file by callimg it from from a different folder.
